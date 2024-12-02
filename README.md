@@ -1,6 +1,7 @@
 # Advent of Code 2024
 
 - Day 1: Historian Hysteria : [Problem](https://adventofcode.com/2024/day/1) | [Solution](solutions/2024/day-1/solution.ts)
+- Day 2: Red-Nosed Reports : [Problem](https://adventofcode.com/2024/day/2) | [Solution](solutions/2024/day-2/solution.ts)
 
 # Advent of Code 2023
 
