@@ -5,6 +5,7 @@
 - Day 3: Mull It Over : [Problem](https://adventofcode.com/2024/day/3) | [Solution](solutions/2024/day-3/solution.ts)
 - Day 4: Ceres Search : [Problem](https://adventofcode.com/2024/day/4) | [Solution](solutions/2024/day-4/solution.ts)
 - Day 5: Print Queue : [Problem](https://adventofcode.com/2024/day/5) | [Solution](solutions/2024/day-5/solution.ts)
+- Day 6: Guard Gallivant : [Problem](https://adventofcode.com/2024/day/6) | [Solution](solutions/2024/day-6/solution.ts)
 
 # Advent of Code 2023
 
